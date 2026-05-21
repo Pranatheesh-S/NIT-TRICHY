@@ -1,1 +1,2 @@
 rich>=13.0.0
+pyftpdlib>=1.5.0

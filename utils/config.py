@@ -8,6 +8,10 @@ SERVER_PORT = 8080
 PROXY_HOST = '127.0.0.1'
 PROXY_PORT = 8888
 
+# FTP Configuration
+FTP_SERVER_PORT = 2121
+FTP_PROXY_PORT = 2122
+
 # Directories
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, 'data')
