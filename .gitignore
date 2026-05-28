@@ -34,7 +34,7 @@ logs/
 data/
 intercepted_files/
 dataset.zip
-
+certs/
 # IDE/editor files
 .vscode/
 .idea/
